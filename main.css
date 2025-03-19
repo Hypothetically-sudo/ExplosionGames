@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-    background-color: #1b1b1b;
+    background-color: rgb(134, 134, 138);
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -28,7 +28,7 @@ nav img {
     border-radius: 1vw;
     cursor: pointer;
     user-select: none;
-    box-shadow: 5px 5px 10px rgba(53, 53, 53, 0.459);
+    box-shadow: 5px 5px 10px rgb(134, 134, 138);
 }
 
 nav h1 {
