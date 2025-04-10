@@ -59,7 +59,7 @@ nav h1 {
 }
  
 .search input {
-    background-color: #5e5e63;
+    background-color: #100c0c;
     border: none;
     border-radius: 1vw 0 0 1vw;
     color: #fff;
@@ -161,7 +161,7 @@ nav h1 {
 .featured a {
     display: inline-block;
     position: relative;
-    color: #2c7ffc;
+    color: #100c0c;
     text-decoration: none;
 }
     
